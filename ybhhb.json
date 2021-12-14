@@ -31,8 +31,8 @@
             "name":"单走一个草"
         },
         {
-            "connects": "",
-            "vertexes": "",
+            "connects": "[]",
+            "vertexes": "[]",
             "imgUrl": "http://tldk.work/hygzs/yz.png",
             "name":"这个没用"
         }
